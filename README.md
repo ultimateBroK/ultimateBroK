@@ -36,8 +36,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223ftcs7mqn56zm3bqfuld7fa&cover_image=true&theme=default&bar_color_cover=false&bar_color=8ff0a4)](https://spotify-github-profile.vercel.app/api/view?uid=223ftcs7mqn56zm3bqfuld7fa&redirect=true) 
 
-<p><img src="https://github.com/itstommi/itstommi/raw/main/Gradients.png"<p> 
-
 <details>
   <summary>⚡Github Stats</summary>
   <img align="left" alt="ultimateBroK's Github Stats" src="https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api??username=ultimateBroK&show_icons=true&hide_border=true" />
