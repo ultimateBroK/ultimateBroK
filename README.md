@@ -52,20 +52,4 @@
 ![Top Langs](https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api/top-langs?username=ultimateBroK&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
 
 <!--START_SECTION:waka-->
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 22 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.waka_01d91434-9d8f-4239-ac89-acd6815054b4 }}
-          GH_TOKEN: ${{ secrets.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 }}
 <!--END_SECTION:waka-->
