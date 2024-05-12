@@ -42,4 +42,4 @@
 </details>
 -->
 <h2>⚡GitHub stats</h2>
-![⚡GitHub stats](https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api??username=ultimateBroK&show_icons=true&theme=dark)
+![⚡GitHub stats](https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api?username=ultimateBroK&show_icons=true&theme=dark)
