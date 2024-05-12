@@ -44,3 +44,4 @@
 <h2>⚡GitHub stats</h2>
 
 ![⚡GitHub stats](https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api?username=ultimateBroK&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api?username=ultimateBroK&size_weight=0.5&count_weight=0.5)
