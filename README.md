@@ -32,12 +32,15 @@
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
   </p>
 
-[![Hieu's GitHub stats](https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/)](https://github.com/ultimateBroK/github-readme-stats)
-
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=ultimateBroK&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <h2>:headphones: Now playing:</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223ftcs7mqn56zm3bqfuld7fa&cover_image=true&theme=default&bar_color_cover=false&bar_color=8ff0a4)](https://spotify-github-profile.vercel.app/api/view?uid=223ftcs7mqn56zm3bqfuld7fa&redirect=true) 
 
 <p><img src="https://github.com/itstommi/itstommi/raw/main/Gradients.png"<p> 
+
+<details>
+  <summary>⚡Github Stats</summary>
+  <img align="left" alt="ultimateBroK's Github Stats" src="https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api??username=ultimateBroK&show_icons=true&hide_border=true" />
+</details>
+
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=ultimateBroK&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
