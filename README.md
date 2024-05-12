@@ -41,4 +41,5 @@
   <img align="left" alt="ultimateBroK's Github Stats" src="https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api??username=ultimateBroK&show_icons=true&hide_border=true&theme=dark" />
 </details>
 -->
-[![⚡GitHub stats](https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api??username=ultimateBroK&show_icons=true&theme=dark)](https://github.com/ultimateBroK/github-readme-stats)
+<h2>⚡GitHub stats</h2>
+[![Hieu Nguyen's GitHub stats](https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api??username=ultimateBroK&show_icons=true&theme=dark)](https://github.com/ultimateBroK/github-readme-stats)
