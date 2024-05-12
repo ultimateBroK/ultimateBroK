@@ -29,10 +29,12 @@
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   </p>
-# 📊 GitHub stats:
+<!-- # 📊 GitHub stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ultimateBroK&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=ultimateBroK&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=ultimateBroK&theme=github-compact&hide_border=true)<br/>
+-->
+[![Hieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultimateBroK)](https://github.com/ultimateBroK/github-readme-stats)
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=ultimateBroK&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
