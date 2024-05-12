@@ -41,7 +41,7 @@
   <img align="left" alt="ultimateBroK's Github Stats" src="https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api??username=ultimateBroK&show_icons=true&hide_border=true&theme=dark" />
 </details>
 -->
-<!--
+
 <h2>⚡GitHub stats</h2>
 
 ![⚡GitHub stats](https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api?username=ultimateBroK&show_icons=true&theme=dark)
@@ -49,10 +49,5 @@
 <h2>🥇 Top Language</h2>
 
 ![Top Langs](https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api/top-langs?username=ultimateBroK&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
--->
-<a href="https://github.com/ultimateBroK/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api?username=ultimateBroK&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/ultimateBroK/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api/top-langs?username=ultimateBroK&card_width=320&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark" />
-</a>
+
+
