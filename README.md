@@ -22,6 +22,7 @@
 
 <h2 align="left">:hammer_and_wrench: Languages and tools:</h2>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.metatrader5.com/" target="_blank" rel="noreferrer"> <img src="https://www.financemagnates.com/wp-content/uploads/2020/12/MT5.png" alt="mt5" width="40" height="40"/> </a> </p>
 
 # 📊 GitHub stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ultimateBroK&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
