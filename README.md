@@ -47,4 +47,4 @@
 
 <h2>🥇 Top Language</h2>
 
-![Top Langs](https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api/top-langs?username=ultimateBroK&size_weight=0.5&count_weight=0.5&theme=dark)
+![Top Langs](https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api/top-langs?username=ultimateBroK&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
