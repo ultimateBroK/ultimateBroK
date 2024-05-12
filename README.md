@@ -38,7 +38,6 @@
 
 <details>
   <summary>⚡Github Stats</summary>
-  <img align="left" alt="ultimateBroK's Github Stats" src="https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api??username=ultimateBroK&show_icons=true&hide_border=true" />
+  <img align="left" alt="ultimateBroK's Github Stats" src="https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api??username=ultimateBroK&show_icons=true&hide_border=true&theme=dark" />
 </details>
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=ultimateBroK&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
