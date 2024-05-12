@@ -33,8 +33,7 @@
   </p>
 
 <h2>:headphones: Now playing:</h2>
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=223ftcs7mqn56zm3bqfuld7fa&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=223ftcs7mqn56zm3bqfuld7fa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223ftcs7mqn56zm3bqfuld7fa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=223ftcs7mqn56zm3bqfuld7fa&redirect=true)
 
 <!--<details>
   <summary>⚡Github Stats</summary>
