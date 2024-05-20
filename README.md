@@ -9,7 +9,7 @@
 
 - :house: **Vietnam :vietnam:**
 
-- 🌱 **Trading** and Coding (less active)
+- 🌱 **Trading** and Coding 
 
 - 📄 Experiences: **Not sure**
 
