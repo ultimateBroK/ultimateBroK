@@ -55,6 +55,7 @@
 ![Top Langs](https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api/top-langs?username=ultimateBroK&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
 
 <h2>🐍 Sneaky Time</h2>
+
 ![Snake animation](https://raw.githubusercontent.com/ultimateBroK/ultimateBroK/output/github-contribution-grid-snake-dark.svg)
 
 <h2>⏲️ Time spent</h2>
