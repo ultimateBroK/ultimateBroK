@@ -94,10 +94,10 @@ Sunday                   74 commits          ██████████░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -111,5 +111,5 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 01/11/2024 18:45:23 UTC
+ Last Updated on 02/11/2024 18:42:31 UTC
 <!--END_SECTION:waka-->
