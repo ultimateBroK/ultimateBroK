@@ -61,7 +61,7 @@
 <h2>⏲️ Time spent</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -94,12 +94,12 @@ Sunday                   75 commits          ██████████░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 9 hrs 35 mins       ███████████████████████░░   93.14 % 
-Python                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Markdown                 8 hrs 27 mins       ███████████████████████░░   92.29 % 
+Python                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    10 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -114,5 +114,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 05/01/2025 18:42:12 UTC
+ Last Updated on 06/01/2025 18:44:59 UTC
 <!--END_SECTION:waka-->
