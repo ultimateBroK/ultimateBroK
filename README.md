@@ -23,17 +23,18 @@
 
 | Icon | Description | Link |
 |---|---|---|
-| [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/) | Linux Operating System | [Linux](https://www.linux.org/) |
 | [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) | Python Programming Language | [Python](https://www.python.org/) |
-| [![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/) | Anaconda Distribution | [Anaconda](https://www.anaconda.com/) |
+| [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) | Java Programming Language | [Java](https://www.java.com/) | 
 | [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/) | Kotlin Programming Language | [Kotlin](https://kotlinlang.org/) |
 | [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio) | Android Studio IDE | [Android Studio](https://developer.android.com/studio) |
+| [![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/) | Anaconda Distribution | [Anaconda](https://www.anaconda.com/) |
+| [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/) | Linux Operating System | [Linux](https://www.linux.org/) |
 
 
 
 <!-- 
 | [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) | Figma Design Tool | [Figma](https://www.figma.com/) |
-| [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) | Java Programming Language | [Java](https://www.java.com/) | 
+
 -->
           
 <!--  <p align="left"> 
