@@ -20,9 +20,24 @@
 </p>
 
 <h2 align="left">:hammer_and_wrench: Languages and tools:</h2>
-  <p align="left"> 
+
+| Icon | Description | Link |
+|---|---|---|
+| [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/) | Linux Operating System | [Linux](https://www.linux.org/) |
+| [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) | Python Programming Language | [Python](https://www.python.org/) |
+| [![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/) | Anaconda Distribution | [Anaconda](https://www.anaconda.com/) |
+| [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/) | Kotlin Programming Language | [Kotlin](https://kotlinlang.org/) |
+| [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio) | Android Studio IDE | [Android Studio](https://developer.android.com/studio) |
+
+
+
+<!-- 
+| [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) | Figma Design Tool | [Figma](https://www.figma.com/) |
+| [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) | Java Programming Language | [Java](https://www.java.com/) | 
+-->
+          
+<!--  <p align="left"> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
-    <!--
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -30,9 +45,8 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-    -->
   </p>
-
+-->
 
 <h2>⚡ GitHub stats</h2>
 
