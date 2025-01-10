@@ -16,7 +16,7 @@
   <a href="https://fb.com/hieuteo03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hieuteo03" height="45" width="45" /></a>
   <a href="https://twitter.com/hieuteo03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hieuteo03" height="45" width="45"/></a>
   <a href="https://stackoverflow.com/users/13984650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13984650" height="45" width="45" /></a>
-  <a href="https://www.hackerrank.com/hieuteo03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hieuteo03" height="45" width="45" /></a>
+ <!--  <a href="https://www.hackerrank.com/hieuteo03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hieuteo03" height="45" width="45" /></a> -->
 </p>
 
 <h2 align="left">:hammer_and_wrench: Languages and tools:</h2>
