@@ -12,12 +12,10 @@
 - 📄 Experiences: **Trading** and **Coding** (just returned after a prolonged period of non-programming) 
 
 <h2 align="left">:raising_hand_man: Connect with me:</h2>
-<p align="left">
-  <a href="https://fb.com/hieuteo03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hieuteo03" height="45" width="45" /></a>
-  <a href="https://twitter.com/hieuteo03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hieuteo03" height="45" width="45"/></a>
-  <a href="https://stackoverflow.com/users/13984650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13984650" height="45" width="45" /></a>
- <!--  <a href="https://www.hackerrank.com/hieuteo03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hieuteo03" height="45" width="45" /></a> -->
-</p>
+
+  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/_ultimateBroK)
+  [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/13984650/)
+
 
 <h2 align="left">:hammer_and_wrench: Languages and tools:</h2>
 
@@ -27,6 +25,7 @@
 | [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) | Java Programming Language | [Java](https://www.java.com/) | 
 | [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/) | Kotlin Programming Language | [Kotlin](https://kotlinlang.org/) |
 | [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio) | Android Studio IDE | [Android Studio](https://developer.android.com/studio) |
+| [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) | Visual Studio Code | [VS Code](https://code.visualstudio.com/) |
 | [![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/) | Anaconda Distribution | [Anaconda](https://www.anaconda.com/) |
 | [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/) | Linux Operating System | [Linux](https://www.linux.org/) |
 
