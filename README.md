@@ -9,7 +9,7 @@
 
 - :house: **Vietnam :vietnam:**
 
-- 📄 Experiences: **Trading** and **Coding**(just returned after a prolonged period of non-programming) 
+- 📄 Experiences: **Trading** and **Coding** (just returned after a prolonged period of non-programming) 
 
 <h2 align="left">:raising_hand_man: Connect with me:</h2>
 <p align="left">
