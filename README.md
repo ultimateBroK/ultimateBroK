@@ -4,7 +4,7 @@
 
 - :house: **Vietnam :vietnam:**
 
-- 📄: **Trading** and **Coding** (just returned after a prolonged period of non-programming)
+- 📄 **Trading** and **Coding** (just returned after a prolonged period of non-programming)
 
 
 <h2 align="left">:hammer_and_wrench: Languages and tools:</h2>
