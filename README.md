@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Hieu Nguyen :trollface:</h1>
+<h1 align="center">Welcome to my house :trollface:</h1>
 
-<h2 align="left">👨🏻‍💻 About me:</h2>
+<h2 align="left">👨🏻‍💻 About me</h2>
 
-- :house: **Vietnam :vietnam:**
+- 🪪 Hieu Nguyen
+
+- 🏠 🇻🇳
 
 - 📄 **Trading** and **Coding** (just returned after a prolonged period of non-programming)
 
