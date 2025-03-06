@@ -27,7 +27,8 @@
   <li>
     <div style="display: flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="40" height="40" style="margin-right: 10px;">
-      <span>Data Enthusiast | Problem Solver | Growth Mindset</span>
+<!--       <span>Data Enthusiast | Problem Solver | Growth Mindset</span> -->
+          <span>Coder | Trader</span>
     </div>
   </li>
   <li>
