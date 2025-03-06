@@ -1,4 +1,13 @@
 <h1 align="center">Welcome to my house :trollface:</h1>
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="2000">
+</p>
+<p>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1500">
+</p>
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</p>
 
 <h2 align="left">👨🏻‍💻 About me</h2>
 
