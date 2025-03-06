@@ -1,28 +1,61 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00FFBB&background=00FFBB06&center=true&vCenter=true&width=1500&height=500&lines=-+ultimateBroK+-;The+Matrix+is+a+system%2C+Neo.;That+system+is+our+enemy.;But+when+you're+inside%2C+you+look+around%2C+what+do+you+see%3F;Businessmen%2C+teachers%2C+lawyers%2C+carpenters.;The+very+minds+of+the+people+we+are+trying+to+save.+;But+until+we+do%2C+these+people+are+still+a+part+of+that+system;and+that+makes+them+our+enemy.;You+have+to+understand%2C+most+of+these+people+are+not+ready+to+be+unplugged.;And+many+of+them+are+so+inured%2C+so+hopelessly+dependent+on+the+system%2C;+that+they+will+fight+to+protect+it.;FUCK+THE+MATRIX" alt="Typing SVG" /></a>
-<p align="center"> 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="2000">
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=A4F9F5&background=00000000¢er=true&vCenter=true&width=1500&height=60&lines=Hi+there!+I'm+ultimateBroK;A+passionate+developer+exploring+the+Matrix+of+code.;Let's+build+something+amazing+together!;" alt="Typing SVG" /></a>
 
-<h2 align="left">👨🏻‍💻 About me</h2>
+<div align="center">
+  <img src="https://i.imgur.com/your-smaller-gif-or-static-image.gif" width="300">
+</div>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Goat.png" alt="Goat" width="25" height="25" /> Hieu Nguyen
+<h2 align="left">👨🏻‍💻 About Me</h2>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" alt="House with Garden" width="25" height="25" /> 🇻🇳
+<ul style="list-style-type: none;">  <!-- Added style="list-style-type: none;" here -->
+  <li>
+    <div style="display: flex; align-items: center;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Goat.png" alt="Goat" width="45" height="45" style="margin-right: 10px;">
+      <span>Hieu Nguyen (ultimateBroK)</span>
+    </div>
+  </li>
+  <li>
+    <div style="display: flex; align-items: center;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" alt="House with Garden" width="45" height="45" style="margin-right: 10px;">
+      <span>From Vietnam 🇻🇳</span>
+    </div>
+  </li>
+  <li>
+    <div style="display: flex; align-items: center;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="45" height="45" style="margin-right: 10px;">
+      <span>Data Enthusiast | Problem Solver | Growth Mindset</span>
+    </div>
+  </li>
+  <li>
+    <div style="display: flex; align-items: center;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Tropical%20Drink.png" alt="Tropical Drink" width="45" height="45" style="margin-right: 10px;">
+      <span>Coding fueled by inspiration (and maybe boba 😉)</span>
+    </div>
+  </li>
+  <li>
+    <div style="display: flex; align-items: center;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="45" height="45" style="margin-right: 10px;">
+      <span>Expanding skills across diverse tech domains.</span>
+    </div>
+  </li>
+  <li>
+    <div style="display: flex; align-items: center;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="45" height="45" style="margin-right: 10px;">
+      <span>Exploring the universe of software development and beyond!</span>
+    </div>
+  </li>
+</ul>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Decreasing.png" alt="Chart Decreasing" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Tropical%20Drink.png" alt="Tropical Drink" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+<h2 align="left">:hammer_and_wrench: Languages and Tools</h2>
 
-<h2 align="left">:hammer_and_wrench: Languages and tools:</h2>
-
-| Icon | Description | Link |
-|---|---|---|
-| [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) | Python Programming Language | [Python](https://www.python.org/) |
-| [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) | Java Programming Language | [Java](https://www.java.com/) | 
-| [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/) | Kotlin Programming Language | [Kotlin](https://kotlinlang.org/) |
-| [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio) | Android Studio IDE | [Android Studio](https://developer.android.com/studio) |
-| [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) | Visual Studio Code | [VS Code](https://code.visualstudio.com/) |
-| [![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/) | Anaconda Distribution | [Anaconda](https://www.anaconda.com/) |
-| [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/) | Linux Operating System | [Linux](https://www.linux.org/) |
-
+<div align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" /> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" /> </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin" /> </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio" /> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" /> </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="anaconda" /> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" /> </a>
+</div>
 
 <h2>⚡ GitHub stats</h2>
 
