@@ -89,50 +89,50 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-416.1%20thousand%20lines%20of%20code-blue)
 
-<h4 style="display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" alt="Owl" width="40" height="40" style="margin-right: 10px;" /> I'm a Night Owl (sometimes) </h4>
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-🌆 Daytime                211 commits         ██████████░░░░░░░░░░░░░░░   38.22 % 
-🌃 Evening                126 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-🌙 Night                  151 commits         ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+🌞 Morning                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+🌆 Daytime                211 commits         █████████░░░░░░░░░░░░░░░░   37.68 % 
+🌃 Evening                134 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+🌙 Night                  151 commits         ███████░░░░░░░░░░░░░░░░░░   26.96 % 
 ```
-<h4 style="display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="Calendar" width="40" height="40" style="margin-right: 10px;" /> I'm Most Productive on Sunday </h4>
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Tuesday                  57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Wednesday                99 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Thursday                 40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Friday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Saturday                 60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Sunday                   172 commits         ████████░░░░░░░░░░░░░░░░░   31.16 % 
+Monday                   54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Tuesday                  57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Wednesday                99 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Thursday                 53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Friday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Saturday                 60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Sunday                   172 commits         ████████░░░░░░░░░░░░░░░░░   30.71 % 
 ```
 
 
-
-<h4 style="display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="40" height="40" style="margin-right: 10px;" /> This Week I Spent My Time On </h4>
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    87 hrs 35 mins      ███████████████████████░░   90.68 % 
-Python                   5 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Markdown                 1 hr 37 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-HTML                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Zig                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Other                    89 hrs 13 mins      ██████████████████████░░░   89.14 % 
+Python                   5 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Markdown                 2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+HTML                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+CSS                      35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Linux                    96 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    100 hrs 6 mins      █████████████████████████   100.00 % 
 ```
-<h4 style="display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" style="margin-right: 10px;" /> I Mostly Code in Java </h4>
+
+**I Mostly Code in Java** 
 
 ```text
 Java                     6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
@@ -145,7 +145,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/03/2025 18:47:58 UTC
+ Last Updated on 06/03/2025 18:46:55 UTC
 <!--END_SECTION:waka-->
 
 
