@@ -1,22 +1,15 @@
-<h1 align="center">Welcome to my house :trollface:</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00FFBB&background=00FFBB06&center=true&vCenter=true&width=1500&height=500&lines=-+ultimateBroK+-;The+Matrix+is+a+system%2C+Neo.;That+system+is+our+enemy.;But+when+you're+inside%2C+you+look+around%2C+what+do+you+see%3F;Businessmen%2C+teachers%2C+lawyers%2C+carpenters.;The+very+minds+of+the+people+we+are+trying+to+save.+;But+until+we+do%2C+these+people+are+still+a+part+of+that+system;and+that+makes+them+our+enemy.;You+have+to+understand%2C+most+of+these+people+are+not+ready+to+be+unplugged.;And+many+of+them+are+so+inured%2C+so+hopelessly+dependent+on+the+system%2C;+that+they+will+fight+to+protect+it.;FUCK+THE+MATRIX" alt="Typing SVG" /></a>
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="2000">
-</p>
-<p>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1500">
-</p>
-<p align="center"> 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </p>
 
 <h2 align="left">👨🏻‍💻 About me</h2>
 
-- 🪪 Hieu Nguyen
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Goat.png" alt="Goat" width="25" height="25" /> Hieu Nguyen
 
-- 🏠 🇻🇳
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" alt="House with Garden" width="25" height="25" /> 🇻🇳
 
-- 📄 **Trading** and **Coding** (just returned after a prolonged period of non-programming)
-
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Decreasing.png" alt="Chart Decreasing" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Tropical%20Drink.png" alt="Tropical Drink" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
 <h2 align="left">:hammer_and_wrench: Languages and tools:</h2>
 
