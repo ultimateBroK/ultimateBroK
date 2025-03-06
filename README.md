@@ -1,49 +1,56 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=A4F9F5&background=00000000¢er=true&vCenter=true&width=1500&height=60&lines=Hi+there!+I'm+ultimateBroK;A+passionate+developer+exploring+the+Matrix+of+code.;Let's+build+something+amazing+together!;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00FFBB&background=00FFBB06&center=true&vCenter=true&width=1500&height=500&lines=-+ultimateBroK+-;The+Matrix+is+a+system%2C+Neo.;That+system+is+our+enemy.;But+when+you're+inside%2C+you+look+around%2C+what+do+you+see%3F;Businessmen%2C+teachers%2C+lawyers%2C+carpenters.;The+very+minds+of+the+people+we+are+trying+to+save.+;But+until+we+do%2C+these+people+are+still+a+part+of+that+system;and+that+makes+them+our+enemy.;You+have+to+understand%2C+most+of+these+people+are+not+ready+to+be+unplugged.;And+many+of+them+are+so+inured%2C+so+hopelessly+dependent+on+the+system%2C;+that+they+will+fight+to+protect+it.;FUCK+THE+MATRIX" alt="Typing SVG" /></a>
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="2000">
+</p>
 
-<div align="center">
-  <img src="https://i.imgur.com/your-smaller-gif-or-static-image.gif" width="300">
-</div>
+<h2 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="45" height="45" style="margin-right: 10px;" />
+  About Me
+</h2>
 
-<h2 align="left">👨🏻‍💻 About Me</h2>
-
-<ul style="list-style-type: none;">  <!-- Added style="list-style-type: none;" here -->
-  <li>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); grid-gap: 15px;">
+  <div style="background-color: #f0f0f0; padding: 15px; border-radius: 10px;">
     <div style="display: flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Goat.png" alt="Goat" width="45" height="45" style="margin-right: 10px;">
-      <span>Hieu Nguyen (ultimateBroK)</span>
+      <span><b>Hieu Nguyen (ultimateBroK)</b></span>
     </div>
-  </li>
-  <li>
+  </div>
+
+  <div style="background-color: #f0f0f0; padding: 15px; border-radius: 10px;">
     <div style="display: flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" alt="House with Garden" width="45" height="45" style="margin-right: 10px;">
-      <span>From Vietnam 🇻🇳</span>
+      <span><b>From Vietnam 🇻🇳</b></span>
     </div>
-  </li>
-  <li>
+  </div>
+
+  <div style="background-color: #f0f0f0; padding: 15px; border-radius: 10px;">
     <div style="display: flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="45" height="45" style="margin-right: 10px;">
-      <span>Data Enthusiast | Problem Solver | Growth Mindset</span>
+      <span><b>Data Enthusiast | Problem Solver | Growth Mindset</b></span>
     </div>
-  </li>
-  <li>
+  </div>
+
+  <div style="background-color: #f0f0f0; padding: 15px; border-radius: 10px;">
     <div style="display: flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Tropical%20Drink.png" alt="Tropical Drink" width="45" height="45" style="margin-right: 10px;">
-      <span>Coding fueled by inspiration (and maybe boba 😉)</span>
+      <span><b>Coding fueled by inspiration (and maybe boba 😉)</b></span>
     </div>
-  </li>
-  <li>
+  </div>
+
+  <div style="background-color: #f0f0f0; padding: 15px; border-radius: 10px;">
     <div style="display: flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="45" height="45" style="margin-right: 10px;">
-      <span>Expanding skills across diverse tech domains.</span>
+      <span><b>Expanding skills across diverse tech domains.</b></span>
     </div>
-  </li>
-  <li>
+  </div>
+
+  <div style="background-color: #f0f0f0; padding: 15px; border-radius: 10px;">
     <div style="display: flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="45" height="45" style="margin-right: 10px;">
-      <span>Exploring the universe of software development and beyond!</span>
+      <span><b>Exploring the universe of software development and beyond!</b></span>
     </div>
-  </li>
-</ul>
+  </div>
+</div>
 
 <h2 align="left">:hammer_and_wrench: Languages and Tools</h2>
 
