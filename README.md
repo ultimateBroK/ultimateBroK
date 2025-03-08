@@ -7,8 +7,7 @@
 </p>
 
 <h2 align="left" style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="45" height="45" style="margin-right: 10px;" />
-  About Me
+  <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="25" height="25" style="margin-right: 10px;" /></sub> About Me
 </h2>
 
 <ul style="list-style-type: none !important;">
@@ -52,8 +51,7 @@
 </ul>
 
 <h2 align="left" style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="45" height="45" />
-  Languages and Tools
+  <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /></sub> Languages and Tools
 </h2>
 
 <div align="center">
@@ -67,25 +65,25 @@
 </div>
 
 <h2 style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="45" height="45" />GitHub Stats
+  <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /></sub> GitHub Stats
 </h2>
 
 ![⚡GitHub stats](https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api?username=ultimateBroK&show_icons=true&theme=dark)
 
 <h2 style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="45" height="45" /> Top Language
+  <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" /></sub> Top Language
 </h2>
 
 ![Top Langs](https://github-readme-stats-9793-ultimatebrok-projects.vercel.app/api/top-langs?username=ultimateBroK&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
 
 <h2 style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="45" height="45" /> Sneaky Time
+  <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /></sub> Sneaky Time
 </h2>
 
 ![Snake animation](https://raw.githubusercontent.com/ultimateBroK/ultimateBroK/output/github-contribution-grid-snake-dark.svg)
 
 <h2 style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="45" height="45" style="margin-right: 10px;" /> Time spent
+  <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" style="margin-right: 10px;" /></sub> Time spent
 </h2>
 
 <!--START_SECTION:waka-->
@@ -95,51 +93,51 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-416.1%20thousand%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-🌆 Daytime                211 commits         █████████░░░░░░░░░░░░░░░░   37.68 % 
-🌃 Evening                134 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-🌙 Night                  151 commits         ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+🌞 Morning                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+🌆 Daytime                211 commits         █████████░░░░░░░░░░░░░░░░   37.68 %
+🌃 Evening                134 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 %
+🌙 Night                  151 commits         ███████░░░░░░░░░░░░░░░░░░   26.96 %
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Tuesday                  57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Wednesday                99 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Thursday                 53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Friday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Saturday                 60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Sunday                   172 commits         ████████░░░░░░░░░░░░░░░░░   30.71 % 
+Monday                   54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+Tuesday                  57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Wednesday                99 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.68 %
+Thursday                 53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+Friday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Saturday                 60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Sunday                   172 commits         ████████░░░░░░░░░░░░░░░░░   30.71 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Bangkok
 
-💬 Programming Languages: 
-Other                    83 hrs 36 mins      ██████████████████████░░░   86.40 % 
-Markdown                 4 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Python                   4 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-JavaScript               1 hr 41 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-CSS                      46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+💬 Programming Languages:
+Other                    83 hrs 36 mins      ██████████████████████░░░   86.40 %
+Markdown                 4 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Python                   4 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+JavaScript               1 hr 41 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+CSS                      46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 
-💻 Operating System: 
-Linux                    96 hrs 46 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Linux                    96 hrs 46 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in Java**
 
 ```text
-Java                     6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-Python                   4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Kotlin                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Java                     6 repos             ██████████░░░░░░░░░░░░░░░   40.00 %
+Python                   4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 %
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Kotlin                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 ```
 
 
@@ -147,5 +145,3 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
  Last Updated on 07/03/2025 18:46:13 UTC
 <!--END_SECTION:waka-->
-
-
