@@ -87,9 +87,9 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C457%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C467%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-586.8%20thousand%20lines%20of%20code-blue)
 
@@ -120,14 +120,14 @@ Sunday                   196 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    52 hrs 2 mins       ████████████████████░░░░░   79.71 % 
-Markdown                 6 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-JSON                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Other                    51 hrs 54 mins      ████████████████████░░░░░   79.68 % 
+Markdown                 6 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+JSON                     2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 Nix                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-JavaScript               1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+JavaScript               1 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Linux                    65 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    65 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -143,5 +143,5 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2025 18:49:54 UTC
+ Last Updated on 24/05/2025 18:47:00 UTC
 <!--END_SECTION:waka-->
