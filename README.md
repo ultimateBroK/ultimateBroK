@@ -185,17 +185,6 @@
   </tr>
 </table>
 
-### 📱 Mobile Development
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter&titles=true" alt="Flutter" /><br>
-      <b>Flutter</b>
-    </td>
-  </tr>
-</table>
-
-
 ### 🗄️ Databases & Caching
 <table>
   <tr>
