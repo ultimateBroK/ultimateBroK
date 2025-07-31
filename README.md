@@ -58,7 +58,7 @@
 &nbsp; Languages & Tools
 </h2>
 
-### � Core Programming Languages
+### 🥇 Core Programming Languages
 <table>
   <tr>
     <td align="center" width="120">
