@@ -87,22 +87,4 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-763.7%20thousand%20lines%20of%20code-blue)
-
-**I Mostly Code in Python** 
-
-```text
-Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-```
-
-
-
-
- Last Updated on 30/07/2025 18:56:53 UTC
 <!--END_SECTION:waka-->
