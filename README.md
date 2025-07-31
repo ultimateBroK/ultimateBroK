@@ -85,7 +85,7 @@
   </tr>
 </table>
 
-### 🤖 AI & Data Science
+### 🤖 AI, Data Science & MLOps
 <table>
   <tr>
     <td align="center" width="120">
@@ -95,10 +95,6 @@
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt&titles=true" alt="ChatGPT" /><br>
       <b>ChatGPT</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=groq&titles=true" alt="Groq" /><br>
-      <b>Groq</b>
     </td>
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&titles=true" alt="Hugging Face" /><br>
@@ -116,12 +112,12 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&titles=true" alt="PyTorch" /><br>
       <b>PyTorch</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&titles=true" alt="Scikit-Learn" /><br>
       <b>Scikit-Learn</b>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&titles=true" alt="Pandas" /><br>
       <b>Pandas</b>
@@ -131,16 +127,20 @@
       <b>NumPy</b>
     </td>
     <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&titles=true" alt="Jupyter" /><br>
-      <b>Jupyter</b>
-    </td>
-    <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit&titles=true" alt="Streamlit" /><br>
       <b>Streamlit</b>
     </td>
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle&titles=true" alt="Kaggle" /><br>
       <b>Kaggle</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=agno&titles=true" alt="Agno" /><br>
+      <b>Agno</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=groq&titles=true" alt="Groq" /><br>
+      <b>Groq</b>
     </td>
   </tr>
 </table>
@@ -189,10 +189,6 @@
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio&titles=true" alt="Android" /><br>
-      <b>Android</b>
-    </td>
-    <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter&titles=true" alt="Flutter" /><br>
       <b>Flutter</b>
     </td>
@@ -219,14 +215,10 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=redis&titles=true" alt="Redis" /><br>
       <b>Redis</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true" alt="Firebase" /><br>
-      <b>Firebase</b>
-    </td>
   </tr>
 </table>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, DevOps & Platforms
 <table>
   <tr>
     <td align="center" width="120">
@@ -253,10 +245,14 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&titles=true" alt="Vercel" /><br>
       <b>Vercel</b>
     </td>
+     <td align="center" width="120">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true" alt="Firebase" /><br>
+      <b>Firebase</b>
+    </td>
   </tr>
 </table>
 
-### 🛠️ Operating Systems & Tools
+### 🛠️ Development Environment
 <table>
   <tr>
     <td align="center" width="120">
@@ -280,12 +276,22 @@
       <b>Neovim</b>
     </td>
     <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=zen&titles=true" alt="Zen" /><br>
-      <b>Zen</b>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio&titles=true" alt="Android Studio" /><br>
+      <b>Android Studio</b>
     </td>
     <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=agno&titles=true" alt="Agno" /><br>
-      <b>Agno</b>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&titles=true" alt="Jupyter" /><br>
+      <b>Jupyter</b>
+    </td>
+  </tr>
+</table>
+
+### ✨ Software & Productivity
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=zen&titles=true" alt="Zen Browser" /><br>
+      <b>Zen Browser</b>
     </td>
   </tr>
 </table>
