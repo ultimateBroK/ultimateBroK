@@ -25,7 +25,7 @@
   <li>
     <div style="display: flex; align-items: center;">
       <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" alt="House with Garden" width="35" height="35" style="margin-right: 10px;"></sub>
-      <span>From Vietnam 🇻🇳</span>
+      <span>🇻🇳</span>
     </div>
   </li>
   <li>
