@@ -402,9 +402,44 @@
 </h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C271%20hrs%2059%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                248 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+🌆 Daytime                512 commits         ██████████░░░░░░░░░░░░░░░   41.59 % 
+🌃 Evening                252 commits         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+🌙 Night                  219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Tuesday                  244 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Wednesday                196 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Thursday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Friday                   126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Saturday                 188 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Sunday                   202 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Python** 
 
@@ -419,5 +454,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 18:48:40 UTC
+ Last Updated on 04/11/2025 18:50:53 UTC
 <!--END_SECTION:waka-->
