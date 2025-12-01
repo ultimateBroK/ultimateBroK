@@ -89,6 +89,12 @@
 ### 🤖 AI & Machine Learning Platforms
 <table>
   <tr>
+    <!-- 
+    <td align="center" width="120">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&titles=true" alt="LangChain" /><br>
+      <b>LangChain</b>
+    </td> 
+    -->
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama&titles=true" alt="Ollama" /><br>
       <b>Ollama</b>
@@ -98,19 +104,16 @@
       <b>Hugging Face</b>
     </td>
     <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&titles=true" alt="LangChain" /><br>
-      <b>LangChain</b>
-    </td>
-    <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=agno&titles=true" alt="Agno" /><br>
       <b>Agno</b>
     </td>
   </tr>
 </table>
-<!--
+
 ### 🧠 ML Frameworks & Libraries
 <table>
   <tr>
+    <!-- 
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&titles=true" alt="TensorFlow" /><br>
       <b>TensorFlow</b>
@@ -123,9 +126,14 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&titles=true" alt="Scikit-Learn" /><br>
       <b>Scikit-Learn</b>
     </td>
+    -->
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&titles=true" alt="Pandas" /><br>
       <b>Pandas</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=polars&titles=true" alt="Polars" /><br>
+      <b>Polars</b>
     </td>
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&titles=true" alt="NumPy" /><br>
@@ -141,15 +149,11 @@
     </td>
   </tr>
 </table>
--->
 
 ### 📊 Data Visualization & Analytics
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=plotly&titles=true" alt="Plotly" /><br>
-      <b>Plotly</b>
-    </td>
+    <!-- 
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=d3&titles=true" alt="D3.js" /><br>
       <b>D3.js</b>
@@ -161,6 +165,11 @@
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=threejs&titles=true" alt="Three.js" /><br>
       <b>Three.js</b>
+    </td> 
+    -->
+    <td align="center" width="120">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=plotly&titles=true" alt="Plotly" /><br>
+      <b>Plotly</b>
     </td>
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=kibana&titles=true" alt="Kibana" /><br>
@@ -189,6 +198,10 @@
       <b>Vue.js</b>
     </td>
     <td align="center" width="120">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=svelte&titles=true" alt="Svelte" /><br>
+      <b>Svelte</b>
+    </td>    
+    <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss&titles=true" alt="Tailwind CSS" /><br>
       <b>Tailwind CSS</b>
     </td>
@@ -206,6 +219,12 @@
 ### ⚙️ Backend & API Development
 <table>
   <tr>
+    <!-- 
+    <td align="center" width="120">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=socketio&titles=true" alt="Socket.IO" /><br>
+      <b>Socket.IO</b>
+    </td> 
+    -->
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&titles=true" alt="Node.js" /><br>
       <b>Node.js</b>
@@ -217,10 +236,6 @@
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&titles=true" alt="FastAPI" /><br>
       <b>FastAPI</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=socketio&titles=true" alt="Socket.IO" /><br>
-      <b>Socket.IO</b>
     </td>
   </tr>
 </table>
@@ -246,6 +261,7 @@
 ### ☁️ Cloud Platforms
 <table>
   <tr>
+    <!-- 
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&titles=true" alt="GCP" /><br>
       <b>GCP</b>
@@ -255,12 +271,13 @@
       <b>Azure</b>
     </td>
     <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&titles=true" alt="Vercel" /><br>
-      <b>Vercel</b>
-    </td>
-    <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true" alt="Firebase" /><br>
       <b>Firebase</b>
+    </td>
+    -->
+    <td align="center" width="120">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&titles=true" alt="Vercel" /><br>
+      <b>Vercel</b>
     </td>
   </tr>
 </table>
@@ -268,13 +285,19 @@
 ### 🐳 DevOps & Deployment
 <table>
   <tr>
+    <!-- 
+    <td align="center" width="120">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&titles=true" alt="GitHub Actions" /><br>
+      <b>GH Actions</b>
+    </td> 
+    -->
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&titles=true" alt="Docker" /><br>
       <b>Docker</b>
     </td>
     <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&titles=true" alt="GitHub Actions" /><br>
-      <b>GH Actions</b>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=podman&titles=true" alt="Podman" /><br>
+      <b>Podman</b>
     </td>
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=git&titles=true" alt="Git" /><br>
@@ -291,11 +314,15 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&titles=true" alt="Linux" /><br>
       <b>Linux</b>
     </td>
-    -->
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=arch&titles=true" alt="Arch Linux" /><br>
       <b>Arch Linux</b>
     </td>
+    <td align="center" width="120">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=kde&titles=true" alt="KDE" /><br>
+      <b>KDE</b>
+    </td>
+    -->
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=cachyos&titles=true" alt="CachyOS" /><br>
       <b>CachyOS</b>
@@ -303,10 +330,6 @@
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland&titles=true" alt="Hyprland" /><br>
       <b>Hyprland</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=kde&titles=true" alt="KDE" /><br>
-      <b>KDE</b>
     </td>
   </tr>
 </table>
@@ -322,19 +345,9 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor&titles=true" alt="Cursor" /><br>
       <b>Cursor</b>
     </td>
-    <!--
     <td align="center" width="120">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim&titles=true" alt="Neovim" /><br>
       <b>Neovim</b>
-    </td>
-    -->
-    <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio&titles=true" alt="Android Studio" /><br>
-      <b>Android Studio</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&titles=true" alt="Jupyter" /><br>
-      <b>Jupyter</b>
     </td>
   </tr>
 </table>
@@ -354,10 +367,6 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=warp&titles=true" alt="Warp" /><br>
       <b>Warp</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=alacritty&titles=true" alt="Alacritty" /><br>
-      <b>Alacritty</b>
-    </td>
   </tr>
 </table>
 
@@ -369,8 +378,8 @@
       <b>Zen Browser</b>
     </td>
     <td align="center" width="120">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=firefox&titles=true" alt="Firefox" /><br>
-      <b>Firefox</b>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=edge&titles=true" alt="Firefox" /><br>
+      <b>Microsoft edge</b>
     </td>
   </tr>
 </table>
