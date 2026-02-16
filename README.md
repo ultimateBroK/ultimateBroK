@@ -411,9 +411,9 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C319%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C330%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.78%20million%20lines%20of%20code-blue?style=flat)
 
@@ -444,14 +444,14 @@ Sunday                   242 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    73 hrs 9 mins       ██████████████████████░░░   89.86 % 
-Markdown                 5 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-QML                      1 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Text                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Other                    65 hrs 42 mins      ██████████████████████░░░   88.77 % 
+Markdown                 5 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+QML                      1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Text                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Git Config               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Linux                    81 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    74 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -467,5 +467,5 @@ QML                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2026 19:03:15 UTC
+ Last Updated on 16/02/2026 19:12:38 UTC
 <!--END_SECTION:waka-->
