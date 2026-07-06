@@ -415,26 +415,26 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.16%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.17%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                625 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-🌆 Daytime                1108 commits        █████████░░░░░░░░░░░░░░░░   36.39 % 
-🌃 Evening                692 commits         ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-🌙 Night                  620 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+🌞 Morning                625 commits         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+🌆 Daytime                1108 commits        █████████░░░░░░░░░░░░░░░░   36.36 % 
+🌃 Evening                694 commits         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+🌙 Night                  620 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Tuesday                  507 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Monday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Tuesday                  507 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
 Wednesday                403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Thursday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Thursday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 Friday                   322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Saturday                 418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Sunday                   602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Saturday                 418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Sunday                   602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
 ```
 
 
@@ -444,14 +444,13 @@ Sunday                   602 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    33 mins             ████████████████░░░░░░░░░   62.56 % 
-Markdown                 16 mins             ████████░░░░░░░░░░░░░░░░░   30.68 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Markdown                 16 mins             ███████████████░░░░░░░░░░   61.23 % 
+Other                    8 mins              ████████░░░░░░░░░░░░░░░░░   31.74 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 💻 Operating System: 
-Linux                    54 mins             █████████████████████████   100.00 % 
+Linux                    26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -467,5 +466,5 @@ Solidity                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2026 19:53:27 UTC
+ Last Updated on 06/07/2026 20:28:11 UTC
 <!--END_SECTION:waka-->
