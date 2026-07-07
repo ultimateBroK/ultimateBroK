@@ -411,47 +411,11 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C809%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C810%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.17%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                625 commits         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-🌆 Daytime                1108 commits        █████████░░░░░░░░░░░░░░░░   36.36 % 
-🌃 Evening                694 commits         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-🌙 Night                  620 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Tuesday                  507 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Wednesday                403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Thursday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Friday                   322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Saturday                 418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Sunday                   602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Markdown                 16 mins             ███████████████░░░░░░░░░░   61.23 % 
-Other                    8 mins              ████████░░░░░░░░░░░░░░░░░   31.74 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-
-💻 Operating System: 
-Linux                    26 mins             █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in Python** 
 
@@ -466,5 +430,5 @@ Solidity                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2026 20:28:11 UTC
+ Last Updated on 07/07/2026 20:27:39 UTC
 <!--END_SECTION:waka-->
