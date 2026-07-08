@@ -417,6 +417,43 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.17%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                625 commits         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+🌆 Daytime                1108 commits        █████████░░░░░░░░░░░░░░░░   36.36 % 
+🌃 Evening                694 commits         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+🌙 Night                  620 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Tuesday                  507 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Wednesday                403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Thursday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Friday                   322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Saturday                 418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Sunday                   602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Markdown                 3 hrs 45 mins       ███████████████░░░░░░░░░░   61.78 % 
+Python                   1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+CSS                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+TOML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+
+💻 Operating System: 
+Linux                    6 hrs 4 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -430,5 +467,5 @@ Solidity                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2026 20:27:39 UTC
+ Last Updated on 08/07/2026 20:07:23 UTC
 <!--END_SECTION:waka-->
