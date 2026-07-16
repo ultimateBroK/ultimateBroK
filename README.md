@@ -411,9 +411,9 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C815%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C815%20hrs%2052%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -444,14 +444,14 @@ Sunday                   602 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   35.90 % 
-Python                   1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   35.55 % 
-TOML                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Python                   1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   34.29 % 
+Markdown                 1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   33.75 % 
+TOML                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Other                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 💻 Operating System: 
-Linux                    4 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -467,5 +467,5 @@ Solidity                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2026 19:47:20 UTC
+ Last Updated on 16/07/2026 19:43:39 UTC
 <!--END_SECTION:waka-->
