@@ -444,14 +444,14 @@ Sunday                   602 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   34.29 % 
-Markdown                 1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   33.75 % 
-TOML                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Other                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Markdown                 1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   34.09 % 
+Python                   1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   33.91 % 
+TOML                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Other                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 💻 Operating System: 
-Linux                    5 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -467,5 +467,5 @@ Solidity                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2026 19:43:39 UTC
+ Last Updated on 17/07/2026 19:42:26 UTC
 <!--END_SECTION:waka-->
