@@ -411,48 +411,9 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C820%20hrs%2033%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.17%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                625 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-🌆 Daytime                1108 commits        █████████░░░░░░░░░░░░░░░░   36.24 % 
-🌃 Evening                704 commits         ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-🌙 Night                  620 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Tuesday                  507 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Wednesday                403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Thursday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Friday                   322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Saturday                 418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Sunday                   602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-TypeScript               1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   41.10 % 
-Markdown                 1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-TOML                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-QML                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-
-💻 Operating System: 
-Linux                    4 hrs 29 mins       █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in Python** 
 
@@ -467,5 +428,5 @@ Solidity                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2026 19:55:26 UTC
+ Last Updated on 23/07/2026 19:58:22 UTC
 <!--END_SECTION:waka-->
