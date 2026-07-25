@@ -411,22 +411,61 @@
 </h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C830%20hrs%2011%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.17%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.24%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                630 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+🌆 Daytime                1124 commits        █████████░░░░░░░░░░░░░░░░   35.88 % 
+🌃 Evening                728 commits         ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+🌙 Night                  651 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Tuesday                  507 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Wednesday                413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Thursday                 485 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Friday                   331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Saturday                 424 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Sunday                   630 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+TypeScript               5 hrs 16 mins       █████████████████░░░░░░░░   67.10 % 
+Other                    1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Markdown                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+QML                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+
+💻 Operating System: 
+Linux                    7 hrs 50 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Shell                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Solidity                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Shell                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 
 
 
 
- Last Updated on 24/07/2026 19:58:07 UTC
+ Last Updated on 25/07/2026 19:46:10 UTC
 <!--END_SECTION:waka-->
