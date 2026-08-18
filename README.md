@@ -446,37 +446,37 @@ Sunday                   823 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               30 hrs 37 mins      ████████████████████████░   94.31 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-QML                      36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+TypeScript               27 hrs 29 mins      ███████████████████████░░   93.73 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+QML                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Linux                    32 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 27 mins (100.0%)
+⏱ AI Coding Time: 29 hrs 20 mins (100.0%)
 
-✍️ 8,629 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,544 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,283,990 Input Tokens, 1,836,736 Output Tokens
+🔤 2,389,211 Input Tokens, 1,123,358 Output Tokens
 
-💵 $1118.23 Estimated AI Cost This Week
+💵 $388.18 Estimated AI Cost This Week
 
-🧠 110 AI Sessions, 507 AI Prompts
+🧠 89 AI Sessions, 453 AI Prompts
 
-Gemini                   10,530 lines        █████████████████████████   98.14 % 
-Sonnet                   200 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Gemini                   9,360 lines         █████████████████████████   98.83 % 
+Sonnet                   111 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Hermes                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 174 characters per prompt
+📝 Concise Prompter — average 164 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -494,5 +494,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 19:10:21 UTC
+ Last Updated on 18/08/2026 19:10:07 UTC
 <!--END_SECTION:waka-->
