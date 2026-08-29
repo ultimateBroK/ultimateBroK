@@ -446,40 +446,40 @@ Sunday                   1033 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               16 hrs 5 mins       ███████████████████░░░░░░   74.27 % 
-Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Text                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+TypeScript               14 hrs 33 mins      ██████████████████░░░░░░░   72.72 % 
+Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Text                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 💻 Operating System: 
-Linux                    21 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 30 mins (94.64%)
+⏱ AI Coding Time: 18 hrs 55 mins (94.52%)
 
-✍️ 3,204 lines written by AI, 20 lines written by hand (99.38% AI-written)
+✍️ 2,573 lines written by AI, 17 lines written by hand (99.34% AI-written)
 
-🔤 42,162,997 Input Tokens, 15,796,830 Output Tokens
+🔤 39,215,221 Input Tokens, 12,050,644 Output Tokens
 
-💵 $6840.63 Estimated AI Cost This Week
+💵 $5881.92 Estimated AI Cost This Week
 
-🧠 178 AI Sessions, 560 AI Prompts
+🧠 165 AI Sessions, 504 AI Prompts
 
-Gemini                   4,098 lines         ███████████████████████░░   93.09 % 
-Opencode-Cli             194 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-GPT                      110 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Gemini                   3,452 lines         ███████████████████████░░   91.91 % 
+Opencode-Cli             194 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+GPT                      110 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Hermes                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.38% of written lines came from AI
-📝 Concise Prompter — average 242 characters per prompt
+🤖 AI-Driven — 99.34% of written lines came from AI
+📝 Concise Prompter — average 263 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.56% of changed lines were hand-edited
+🚀 High AI Trust — 4.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -495,5 +495,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 02:19:27 UTC
+ Last Updated on 29/08/2026 01:54:06 UTC
 <!--END_SECTION:waka-->
