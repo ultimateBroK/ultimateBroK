@@ -411,9 +411,9 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C364%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C368%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-318%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-323%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -422,21 +422,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                784 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-🌆 Daytime                1528 commits        ████████░░░░░░░░░░░░░░░░░   32.37 % 
-🌃 Evening                1267 commits        ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-🌙 Night                  1141 commits        ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+🌞 Morning                784 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+🌆 Daytime                1535 commits        ████████░░░░░░░░░░░░░░░░░   32.43 % 
+🌃 Evening                1274 commits        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+🌙 Night                  1141 commits        ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Tuesday                  668 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Wednesday                649 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Thursday                 653 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Friday                   511 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Saturday                 561 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Sunday                   1043 commits        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Monday                   635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Tuesday                  668 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Wednesday                649 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Thursday                 653 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Friday                   511 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Saturday                 561 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Sunday                   1057 commits        ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
 ```
 
 
@@ -446,54 +446,54 @@ Sunday                   1043 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    26 hrs 58 mins      ██████████████████████░░░   87.64 % 
-Markdown                 1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-TOML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-TypeScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    22 hrs 17 mins      ███████████████████░░░░░░   75.38 % 
+TypeScript               3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+TOML                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Markdown                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Git Config               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 💻 Operating System: 
-Linux                    30 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 35 mins (96.17%)
+⏱ AI Coding Time: 28 hrs 21 mins (95.9%)
 
-✍️ 947 lines written by AI, 2,473 lines written by hand (27.69% AI-written)
+✍️ 1,652 lines written by AI, 2,624 lines written by hand (38.63% AI-written)
 
-🔤 123,338,037 Input Tokens, 15,899,858 Output Tokens
+🔤 179,340,278 Input Tokens, 16,399,267 Output Tokens
 
-💵 $22106.66 Estimated AI Cost This Week
+💵 $22448.78 Estimated AI Cost This Week
 
-🧠 104 AI Sessions, 484 AI Prompts
+🧠 108 AI Sessions, 413 AI Prompts
 
-Gemini                   1,168 lines         ████████████████████████░   97.74 % 
-Sonnet                   27 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Gemini                   2,110 lines         █████████████████████████   98.74 % 
+Sonnet                   27 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 27.69% of written lines came from AI
-📝 Concise Prompter — average 129 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 90.08% of changed lines were hand-edited
+⚖️ Balanced with AI — 38.63% of written lines came from AI
+📝 Concise Prompter — average 123 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 83.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Shell                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Python                   17 repos            ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Shell                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
 
 
- Last Updated on 05/09/2026 20:40:25 UTC
+ Last Updated on 06/09/2026 20:45:12 UTC
 <!--END_SECTION:waka-->
