@@ -446,38 +446,37 @@ Sunday                   1057 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Other                    1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-HTML                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Python                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-TypeScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Markdown                 1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+Other                    1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+Python                   44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+HTML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 💻 Operating System: 
-Linux                    5 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 5 mins (90.62%)
+⏱ AI Coding Time: 3 hrs 35 mins (87.69%)
 
-✍️ 2,920 lines written by AI, 94 lines written by hand (96.88% AI-written)
+✍️ 1,812 lines written by AI, 93 lines written by hand (95.12% AI-written)
 
-🔤 545,887 Input Tokens, 443,380 Output Tokens
+🔤 109,670 Input Tokens, 41,234 Output Tokens
 
-💵 $111.48 Estimated AI Cost This Week
+💵 $7.07 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 102 AI Prompts
+🧠 16 AI Sessions, 73 AI Prompts
 
-Hermes                   2,873 lines         ████████████████████████░   97.62 % 
-Gemini                   70 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Hermes                   1,766 lines         ████████████████████████░   97.41 % 
+Gemini                   47 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.88% of written lines came from AI
-📝 Concise Prompter — average 290 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 18.57% of changed lines were hand-edited
+🤖 AI-Driven — 95.12% of written lines came from AI
+📝 Concise Prompter — average 222 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 8.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -493,5 +492,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 21:45:12 UTC
+ Last Updated on 25/09/2026 21:47:58 UTC
 <!--END_SECTION:waka-->
