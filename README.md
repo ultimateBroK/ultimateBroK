@@ -411,7 +411,7 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C384%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C385%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-346%20hrs%2023%20mins-blue?style=flat)
 
@@ -446,33 +446,33 @@ Sunday                   1057 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    42 mins             ████████████████░░░░░░░░░   63.26 % 
-Text                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-TypeScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Python                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+TypeScript               14 mins             ███████████░░░░░░░░░░░░░░   44.09 % 
+Text                     9 mins              ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+Python                   6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Linux                    1 hr 6 mins         █████████████████████████   100.00 % 
+Linux                    32 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (72.73%)
+⏱ AI Coding Time: 0 secs (0.83%)
 
-✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 53 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 28 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 98 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 154 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -489,5 +489,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 23:29:59 UTC
+ Last Updated on 29/09/2026 22:34:35 UTC
 <!--END_SECTION:waka-->
