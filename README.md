@@ -411,7 +411,7 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C385%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C385%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-346%20hrs%2023%20mins-blue?style=flat)
 
@@ -422,21 +422,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                787 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-🌆 Daytime                1535 commits        ████████░░░░░░░░░░░░░░░░░   32.30 % 
-🌃 Evening                1277 commits        ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-🌙 Night                  1153 commits        ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+🌞 Morning                787 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+🌆 Daytime                1539 commits        ████████░░░░░░░░░░░░░░░░░   32.36 % 
+🌃 Evening                1277 commits        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+🌙 Night                  1153 commits        ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Tuesday                  671 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Wednesday                649 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Thursday                 663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Friday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Saturday                 561 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Sunday                   1057 commits        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+Monday                   635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Tuesday                  671 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Wednesday                653 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Thursday                 663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Friday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Saturday                 561 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Sunday                   1057 commits        ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
 ```
 
 
@@ -446,14 +446,13 @@ Sunday                   1057 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               14 mins             ███████████░░░░░░░░░░░░░░   43.89 % 
-Text                     9 mins              ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-Python                   6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+TypeScript               15 mins             ███████████████████████░░   93.83 % 
+C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 💻 Operating System: 
-Linux                    32 mins             █████████████████████████   100.00 % 
+Linux                    16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -475,5 +474,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 22:32:47 UTC
+ Last Updated on 01/10/2026 22:53:19 UTC
 <!--END_SECTION:waka-->
