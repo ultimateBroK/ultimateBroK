@@ -411,9 +411,9 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C385%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C385%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-346%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-346%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -446,19 +446,34 @@ Sunday                   1057 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               15 mins             ███████████████████████░░   93.83 % 
-C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Other                    52 mins             ███████████████░░░░░░░░░░   58.84 % 
+TypeScript               16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Markdown                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+TOML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 19 mins (22.43%)
+
+✍️ 0 lines written by AI, 1,624 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 37 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 2,278 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -474,5 +489,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 22:30:32 UTC
+ Last Updated on 03/10/2026 21:42:49 UTC
 <!--END_SECTION:waka-->
