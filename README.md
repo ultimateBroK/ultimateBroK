@@ -415,7 +415,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-346%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -446,22 +446,22 @@ Sunday                   1062 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    52 mins             ██████████████░░░░░░░░░░░   54.54 % 
-TypeScript               16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-TOML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Other                    1 hr 29 mins        █████████████████░░░░░░░░   67.16 % 
+TypeScript               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 💻 Operating System: 
-Linux                    1 hr 35 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (20.79%)
+⏱ AI Coding Time: 19 mins (15.01%)
 
-✍️ 0 lines written by AI, 1,624 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3,750 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -489,5 +489,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 21:52:14 UTC
+ Last Updated on 06/10/2026 00:18:07 UTC
 <!--END_SECTION:waka-->
