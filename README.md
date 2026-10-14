@@ -411,9 +411,9 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C396%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C397%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-357%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-359%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -446,38 +446,38 @@ Sunday                   1062 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   4 hrs 57 mins       ███████████░░░░░░░░░░░░░░   43.13 % 
-Markdown                 2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-Other                    1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-MQL                      1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-TOML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Python                   5 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   36.51 % 
+Markdown                 4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+Other                    1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+MQL                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Bash                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 💻 Operating System: 
-Linux                    11 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 25 mins (90.79%)
+⏱ AI Coding Time: 14 hrs 52 mins (93.37%)
 
-✍️ 13,763 lines written by AI, 4,453 lines written by hand (75.55% AI-written)
+✍️ 15,357 lines written by AI, 4,453 lines written by hand (77.52% AI-written)
 
-🔤 5,393,789 Input Tokens, 3,474,421 Output Tokens
+🔤 10,445,965 Input Tokens, 4,233,342 Output Tokens
 
-💵 $1304.98 Estimated AI Cost This Week
+💵 $1329.87 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 124 AI Prompts
+🧠 52 AI Sessions, 157 AI Prompts
 
-Hermes                   13,279 lines        ████████████████████████░   96.48 % 
-Gemini                   484 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Hermes                   14,297 lines        ███████████████████████░░   93.10 % 
+Gemini                   1,060 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.55% of written lines came from AI
-📄 Detailed Prompter — average 1,244 characters per prompt
+🤖 AI-Driven — 77.52% of written lines came from AI
+📄 Detailed Prompter — average 1,398 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 28.19% of changed lines were hand-edited
+🚀 High AI Trust — 26.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -493,5 +493,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 23:04:25 UTC
+ Last Updated on 14/10/2026 21:55:58 UTC
 <!--END_SECTION:waka-->
